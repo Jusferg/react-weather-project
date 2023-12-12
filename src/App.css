@@ -1,5 +1,4 @@
 body {
-  background-image: url("../images/weather-pic.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -28,3 +27,4 @@ body {
   background: blue;
   color: white;
 }
+
