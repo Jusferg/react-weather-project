@@ -64,6 +64,7 @@ export default function Weather() {
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
         </div>
+        <a href="https://github.com/Jusferg/Weather-Forecast-Project.git" target="_blank">Open-Source code</a> by Tia D Ferguson
       </div>
     </div>
   );
